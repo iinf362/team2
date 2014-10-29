@@ -12,10 +12,15 @@ html {
 	  border-style: outset;
 }
 .tab{
-width: 100%;
-float: right;
-margin-top: 0;
-margin-bottom: 0;
+	width: 100%;
+	float: right;
+	margin-top: 0;
+	margin-bottom: 0;
+	list-style: none;
+}
+
+.header {
+	padding: 2em 0;
 }
 
 .tab li{
