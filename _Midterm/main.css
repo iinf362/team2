@@ -1,0 +1,82 @@
+/* Css page for project */
+html {
+	background-color: #6B6B47;
+}
+/*CSS for navbar */
+.navbar{
+	  width: 80%;
+      margin: 0 auto;
+      background-color: #CCC;
+	  height: 35px;
+	  box-shadow: -5px 5px 10px 0;
+	  border-style: outset;
+}
+.tab{
+width: 100%;
+float: right;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+.tab li{
+	float: left;
+	width: 10em;
+}
+.tab li:hover{
+	background-color: #069;
+	box-shadow: -5px 5px 10px 0;
+}
+.tab li a:hover{
+	color: #CCC;
+}
+.tab li a{
+      display: block;
+      padding: 8px 15px;
+      text-decoration: none;
+      font-weight: bold;
+      color: #069;
+      border-right: 1px solid #f2f2f2;
+	  text-align: center;
+	  }
+/* END navbar css */
+
+/* CSS for main block */
+
+.mainblock {
+	max-width: 80%;
+	height: 900px;
+	background-color: #CCC;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: -5px 5px 10px 0;
+	border-style: outset;
+}
+h1{
+	margin: 0 auto 30;
+	Border-style: outset;
+	max-width: 24%;
+	background-color: #CCC;
+	padding-left: 20px;
+	color: #069;
+	box-shadow: -5px 5px 10px 0 black;
+}
+
+h2{
+	margin-left: 2em;
+	color: #069;
+}
+
+p{
+	margin-left: 2em;
+	font-family: Sans-sarif;
+	max-width: 90%;
+	color: #069;
+	line-height: 2em;
+}
+img{
+	max-height: 800px;
+	max-width: 600px;
+	margin-left: 2em;
+	border-style:inset;
+}
