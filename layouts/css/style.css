@@ -147,12 +147,11 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .hero {
-	margin: 0 auto;
-	width:100%;
+	text-align: center;
 }
 
 .hero-img{
-	max-width: 80%;
+	width: 60%;
 }
 
 .col {
