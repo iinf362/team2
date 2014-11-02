@@ -3,7 +3,7 @@
 }
 
 html {
-	background-color: #9BCDFF;
+	background-color: #134D82;	/*#9BCDFF;*/
 }
 
 body {
@@ -40,12 +40,12 @@ small, .font_small {font-size: 0.833em;}
 
 .button {
 	margin: 1em auto;
-	max-width: 450px;
-	height: 200px;
-	background-color: #57A796;
+	max-width: 300px;
+	height: 150px;
+	background-color: #282F2E;
 	border-radius: 1em;
 	text-align: center;
-	padding: 70px 0;
+	padding: 40px 0;
 	box-shadow: -3px 3px 10px 0;
 }
 
@@ -59,11 +59,11 @@ small, .font_small {font-size: 0.833em;}
 .button-link {
     display: block;
     text-decoration: none;
-    color: #9d0000;
+    color: #FFC4C4;
 	margin: 0 auto;
 	text-align: center;
 	font-size: 40px;
-	height: 200px;
+	height: 110px;
 }
 
 
@@ -75,26 +75,40 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .logo{
-	float: left;
-	max-height: 100px;
-	max-width: 100px;
+	height: 100px;
+	width: 100px;
+	display: block;
+	margin: 0 auto;
+}
+
+@media (min-width:600px) {
+	.logo{
+		float: left;
+	}
+	.title{
+		float: left;
+	}
 }
 
 .title{
-	float: left;
 	padding-left: 20px;
 	padding-top: 20px;
 	color: #005c8a;
 	font-size: 40px;
+	text-align: center;
 }
 
-.tab-title {
+.title-block {
 	margin: 30px auto 30px;
-	border-style: outset;
-	background-color: #CCC;
-	box-shadow: -5px 5px 10px 0 black;
 	border-radius: 1em;
+}
+
+.block {
+	border-style: outset;
+	background-color: #ECF3F4;
+	box-shadow: -5px 5px 10px 0 black;
 	padding: 10px 0 10px 10px;
+	padding: 2em;
 }
 
 .nav {
@@ -106,21 +120,27 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .nav li {
-	display: inline-block;
-	width: 20%;
-	background-color: #CCC;
+	background-color: #ECF3F4;
 	height: 40px;
 	border-style: outset;
 	border-radius: 1em;
 	box-shadow: 0px 1px 10px 0;
 }
 
+@media (min-width:600px) {
+	.nav li {
+		display: inline-block;
+		width: 20%;
+	}
+}
+
+
 .nav li:hover {
 	background-color: #069;
 	box-shadow: -5px 5px 10px 0;
 }
 .nav-link:hover {
-	color: #CCC;
+	color: #ECF3F4;
 }
 .nav-link {
     display: block;
@@ -135,17 +155,13 @@ small, .font_small {font-size: 0.833em;}
 
 
 .main-block {
-	background-color: #CCC;
-	box-shadow: -5px 5px 10px 0;
-	border-style: outset;
 	border-radius: 2em;
-	padding: 1em;
 }
 
-.site-footer {
-	background: #FF9900;
+.footer-block {
+	margin: 30px auto 5px;
 	margin-top: 2em;
-	padding: 2em 0 2em 0;
+	border-radius: 1em;
 }
 
 .footer-link {
@@ -161,12 +177,15 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .col {
-	float: left;
-	width: 50%;
 	padding: 1em;
 }
 
-
+@media (min-width:600px) {
+	.col {
+		float: left;
+		width: 50%;
+	}
+}
 
 
 /**
