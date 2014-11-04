@@ -133,6 +133,7 @@ small, .font_small {font-size: 0.833em;}
 	.nav li {
 		display: inline-block;
 		width: 20%;
+		margin-right: 5px;
 	}
 }
 
@@ -146,7 +147,7 @@ small, .font_small {font-size: 0.833em;}
 }
 .nav-link {
     display: block;
-    padding: 1px;
+    padding:	4px;
     text-decoration: none;
     color: #004c74;
 	margin: 0 auto;
