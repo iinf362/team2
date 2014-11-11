@@ -67,6 +67,48 @@ small, .font_small {font-size: 0.833em;}
 }
 */
 
+.menu {
+	list-style: none;
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+	padding: 0 0 0;
+}
+
+.menu li {
+	border-style: none;
+}
+
+@media (min-width: 390px){
+	.menu {
+		float: right;
+	}
+
+	.menu li {
+		display: inline-block;
+		margin-right: 1.5em;
+	}
+}
+
+.menu li:hover{	
+	background-color: #069;
+}
+
+.menu-link:hover {
+	color: black;
+	
+}
+
+.menu-link {
+    display: block;
+    padding: 1px;
+    text-decoration: none;
+    color: white;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 18px;
+}
+
 
 .container {
 	max-width: 1000px; 
@@ -104,7 +146,7 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .title-block {
-	margin: 30px auto 30px;
+	margin: 10px auto 30px;
 	border-radius: 1em;
 }
 
