@@ -1,0 +1,11 @@
+# Site settings
+title: NYS Renters Right Guide
+email: email@email.com
+description: Description about the site
+url: iinf362.github.io/team2
+github_username: iinf362
+team_name: "Empowered, Inc."
+
+# Build settings
+markdown: kramdown
+permalink: pretty

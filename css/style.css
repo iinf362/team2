@@ -129,14 +129,13 @@ small, .font_small {font-size: 0.833em;}
 }
 
 
-@media (min-width:700px) {
+@media (min-width:800px) {
 	.nav li {
 		display: inline-block;
-		width: 20%;
+		width: 19%;
 		margin-right: 5px;
 	}
 }
-
 
 .nav li:hover {
 	background-color: #069;
