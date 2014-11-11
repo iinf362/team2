@@ -93,13 +93,13 @@ small, .font_small {font-size: 0.833em;}
 .title{
 	padding-left: 20px;
 	padding-top: 20px;
-	color: #005c8a;
 	font-size: 40px;
 	text-align: center;
 }
 
-.title a,.titlea:hover{
+.title a,.title a:hover{
 	text-decoration: none;
+        color: #005c8a;
 }
 
 .title-block {
