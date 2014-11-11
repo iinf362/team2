@@ -98,6 +98,10 @@ small, .font_small {font-size: 0.833em;}
 	text-align: center;
 }
 
+.title a,.titlea:hover{
+	text-decoration: none;
+}
+
 .title-block {
 	margin: 30px auto 30px;
 	border-radius: 1em;
