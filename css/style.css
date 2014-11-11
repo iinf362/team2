@@ -81,7 +81,7 @@ small, .font_small {font-size: 0.833em;}
 	margin: 0 auto;
 }
 
-@media (min-width:560px) {
+@media (min-width:700px) {
 	.logo{
 		float: left;
 	}
@@ -132,7 +132,7 @@ small, .font_small {font-size: 0.833em;}
 @media (min-width:800px) {
 	.nav li {
 		display: inline-block;
-		width: 19%;
+		width: 17%;
 		margin-right: 5px;
 	}
 }
