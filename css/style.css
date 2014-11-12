@@ -158,6 +158,14 @@ small, .font_small {font-size: 0.833em;}
 	padding: 2em;
 }
 
+@media(max-width:500px)
+{
+	.block{
+		padding: 1em;
+	}
+	
+}
+
 .nav {
 	list-style: none;
 	padding: 0 0 0;
@@ -204,13 +212,9 @@ small, .font_small {font-size: 0.833em;}
 
 
 .main-block {
-	border-radius: 1.5em;
+	border-radius: 2em;
 }
 
-@media(max-width:500px)
-{
-	border-radius: 0.5em;
-}
 
 .footer-block {
 	margin: 30px auto 5px;
