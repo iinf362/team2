@@ -124,7 +124,7 @@ small, .font_small {font-size: 0.833em;}
 	margin: 0 auto;
 }
 
-@media (min-width:650px) {
+@media (min-width:630px) {
 	.logo{
 		float: left;
 	}
@@ -176,7 +176,7 @@ small, .font_small {font-size: 0.833em;}
 }
 
 
-@media (min-width:650px) {
+@media (min-width:680px) {
 	.nav li {
 		display: inline-block;
 		width: 17%;
@@ -204,7 +204,12 @@ small, .font_small {font-size: 0.833em;}
 
 
 .main-block {
-	border-radius: 2em;
+	border-radius: 1.5em;
+}
+
+@media(max-width:500px)
+{
+	border-radius:1em;
 }
 
 .footer-block {
@@ -229,7 +234,7 @@ small, .font_small {font-size: 0.833em;}
 	padding: 1em;
 }
 
-@media (min-width:700px) {
+@media (min-width:600px) {
 	.col {
 		float: left;
 		width: 50%;
