@@ -124,7 +124,7 @@ small, .font_small {font-size: 0.833em;}
 	margin: 0 auto;
 }
 
-@media (min-width:700px) {
+@media (min-width:650px) {
 	.logo{
 		float: left;
 	}
