@@ -178,9 +178,8 @@ small, .font_small {font-size: 0.833em;}
 	background-color: #b7b6b4;
 	height: 40px;
 	border-style: none;
-	border-radius: 1em;
 	box-shadow: 0px 0px 15px 0px;
-	margin-bottom: 0.5em;
+	margin-bottom: 0.8em;
 }
 
 
@@ -196,9 +195,11 @@ small, .font_small {font-size: 0.833em;}
 	background-color: #069;
 	box-shadow: 0px 0px 15px 0px;
 }
-.nav-link:hover {
-	color: #b7b6b4;
+
+.nav li, .nav-link {
+	border-radius: 1em;
 }
+
 .nav-link {
     display: block;
     padding:	4px;
@@ -210,6 +211,9 @@ small, .font_small {font-size: 0.833em;}
 	height: 40px;
 }
 
+.nav-link:hover {
+	color: #b7b6b4;
+}
 
 .main-block {
 	border-radius: 2em;
