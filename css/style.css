@@ -124,7 +124,7 @@ small, .font_small {font-size: 0.833em;}
 	margin: 0 auto;
 }
 
-@media (min-width:630px) {
+@media (min-width:640px) {
 	.logo{
 		float: left;
 	}
@@ -209,7 +209,7 @@ small, .font_small {font-size: 0.833em;}
 
 @media(max-width:500px)
 {
-	border-radius:1em;
+	border-radius: 0.5em;
 }
 
 .footer-block {
