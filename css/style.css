@@ -179,7 +179,7 @@ small, .font_small {font-size: 0.833em;}
 	height: 40px;
 	border-style: none;
 	box-shadow: 0px 0px 15px 0px;
-	margin-bottom: 1.0em;
+	margin-bottom: 0.8em;
 }
 
 
@@ -188,7 +188,7 @@ small, .font_small {font-size: 0.833em;}
 		display: inline-block;
 		width: 18%;
 		margin-right: 5px;
-		margin-bottom: 0.5em;
+		margin-bottom: 0;
 	}
 }
 
