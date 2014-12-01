@@ -1,6 +1,6 @@
 ---
 layout: default-page
-title: rent-control
+title: Rent Control
 ---
 
 # Restrictions that Govern the Amount of Rent a Landlord Can Charge and Other Tenant Protections
