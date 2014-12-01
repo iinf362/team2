@@ -91,11 +91,11 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .menu li:hover{	
-	background-color: #069;
+	background-color: #031634;
 }
 
 .menu-link:hover {
-	color: black;
+	color: white;
 	
 }
 
