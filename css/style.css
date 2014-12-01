@@ -186,7 +186,7 @@ small, .font_small {font-size: 0.833em;}
 @media (min-width:680px) {
 	.nav li {
 		display: inline-block;
-		width: 18%;
+		width: 15%;
 		margin-right: 5px;
 		margin-bottom: 0;
 	}
