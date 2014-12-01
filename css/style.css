@@ -91,11 +91,14 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .menu li:hover{	
-	background-color: #069;
+	background-color: #031634;
+	border-radius: 1em;
+	padding: 10px 40px;
+
 }
 
 .menu-link:hover {
-	color: black;
+	color: white;
 	
 }
 
@@ -107,6 +110,7 @@ small, .font_small {font-size: 0.833em;}
 	margin: 0 auto;
 	text-align: center;
 	font-size: 18px;
+
 }
 
 
@@ -158,13 +162,13 @@ small, .font_small {font-size: 0.833em;}
 	padding: 2em;
 }
 
-@media(max-width:500px)
-{
+@media(max-width:500px){
 	.block{
 		padding: 1em;
 	}
-	
 }
+	
+
 
 .nav {
 	list-style: none;
@@ -193,7 +197,7 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .nav li:hover {
-	background-color: #069;
+	background-color: #031634;
 	/*box-shadow: 0px 0px 15px 0px;*/
 }
 
