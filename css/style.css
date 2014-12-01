@@ -93,7 +93,8 @@ small, .font_small {font-size: 0.833em;}
 .menu li:hover{	
 	background-color: #031634;
 	border-radius: 1em;
-	
+	width: 2em;
+
 }
 
 .menu-link:hover {
