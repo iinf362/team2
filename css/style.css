@@ -3,7 +3,7 @@
 }
 
 html {
-	background-color: #8F8847; /*#9BCDFF; #134D82;*/  
+	background-color: #910D0D; /*#9BCDFF; #134D82;*/  
 }
 
 body {
@@ -186,7 +186,7 @@ small, .font_small {font-size: 0.833em;}
 @media (min-width:680px) {
 	.nav li {
 		display: inline-block;
-		width: 15%;
+		width: 18%;
 		margin-right: 5px;
 		margin-bottom: 0;
 	}
