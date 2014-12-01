@@ -283,3 +283,7 @@ small, .font_small {font-size: 0.833em;}
 .cf {
     *zoom: 1;
 }
+
+.intro-p{
+	margin: 0 auto;
+}
