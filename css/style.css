@@ -77,6 +77,8 @@ small, .font_small {font-size: 0.833em;}
 
 .menu li {
 	border-style: none;
+	border-radius: 1em;
+	padding: 10px 40px;
 }
 
 @media (min-width: 390px){
