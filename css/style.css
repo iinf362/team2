@@ -152,7 +152,7 @@ small, .font_small {font-size: 0.833em;}
 
 .block {
 	border-style: none;
-	background-color: #b7b6b4;
+	background-color: white;
 	/*box-shadow: 0px 0px 40px 0px black;*/
 	padding: 10px 0 10px 10px;
 	padding: 2em;
@@ -175,10 +175,10 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .nav li {
-	background-color: #b7b6b4;
+	background-color: white;
 	height: 40px;
 	border-style: none;
-	box-shadow: 0px 0px 15px 0px;
+	/*box-shadow: 0px 0px 15px 0px;*/
 	margin-bottom: 0.8em;
 }
 
@@ -213,7 +213,7 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .nav-link:hover {
-	color: #b7b6b4;
+	color: white;
 }
 
 .main-block {
