@@ -284,6 +284,6 @@ small, .font_small {font-size: 0.833em;}
     *zoom: 1;
 }
 
-.intro-p{
-	margin: 0 auto;
+.intro-p p{
+	max-width: 56em;
 }
