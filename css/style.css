@@ -77,7 +77,7 @@ small, .font_small {font-size: 0.833em;}
 
 .menu li {
 	border-style: none;
-	border-radius: 1em;
+	border-radius: 0px;
 	padding: 0px 8px;
 }
 
@@ -94,7 +94,7 @@ small, .font_small {font-size: 0.833em;}
 
 .menu li:hover{	
 	background-color: #031634;
-	border-radius: 1em;
+	border-radius: 0px;
 	padding: 0px 8px;
 
 }
@@ -153,7 +153,7 @@ small, .font_small {font-size: 0.833em;}
 
 .title-block {
 	margin: 15px auto 30px;
-	border-radius: 1em;
+	border-radius: 0px;
 }
 
 .block {
@@ -204,7 +204,7 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .nav li, .nav-link {
-	border-radius: 1em;
+	border-radius: 0px;
 }
 
 .nav-link {
@@ -223,14 +223,14 @@ small, .font_small {font-size: 0.833em;}
 }
 
 .main-block {
-	border-radius: 2em;
+	border-radius: 0px;
 }
 
 
 .footer-block {
 	margin: 30px auto 5px;
 	margin-top: 2em;
-	border-radius: 1em;
+	border-radius: 0px;
 }
 
 .footer-link {
