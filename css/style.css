@@ -3,7 +3,7 @@
 }
 
 html {
-	background-color: #02779E; /*#9BCDFF; #134D82;*/  
+	background-color: #0A8F00; /*#9BCDFF; #134D82;*/  
 }
 
 body {
@@ -149,6 +149,7 @@ small, .font_small {font-size: 0.833em;}
 .title a,.title a:hover{
 	text-decoration: none;
         color: #031634;
+	font-weight: bold;
 }
 
 .title-block {
