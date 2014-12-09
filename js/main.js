@@ -1,5 +1,5 @@
 $(document).ready(function(){
-$("li").click(fucntion(){
+$("li").click(function(){
 	alert("hello");
 });
 });
