@@ -2,9 +2,12 @@
 layout: default-page
 title: Eviction
 ---
+<div class="button">
 ## What is an eviction?
-
+<div class="drop-down">
 An eviction is a legal proceeding filed in court that a landlord can use to remove a tenant from a rental property. It commences when the landlord has an authorized individual serve the tenant with the notice of petition and the petition, the court papers that start an eviction lawsuit. A notice of petition is a document that has the time, date, and location of the eviction hearing. The petition notifies the tenant of the landlord's reason for evicting the tenant. The tenant must receive the notice of petition and the petition at least five days before the hearing date, but the hearing date cannot be later than twelve days after the tenant is served.
+</div>
+</div>
 ## Can my landlord evict me without going to court?
 
 Except in limited circumstances in which individuals have moved into an apartment without the consent of the landlord, the landlord cannot evict you with going to court. After your landlord commences the court proceeding, he or she must win the case and subsequently obtain a court order called a "Warrant of Eviction".

@@ -1,3 +1,4 @@
-$("button").click(function(){
-$("drop-down").slideToggle();
-});
+$(document).ready(function(){
+$(".button").click(function(){
+$(".drop-down").slideToggle();
+}});
