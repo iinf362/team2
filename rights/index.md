@@ -1,6 +1,6 @@
 ---
 layout: default-page
-title: Rights
+title: Your Rights
 ---
 
 # Renting an apartment
