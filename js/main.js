@@ -1,4 +1,4 @@
 function myFunction() {
-    $("#h01").html("Hello jQuery");
+    $("html").html("Hello jQuery");
 }
 $(document).ready(myFunction);
