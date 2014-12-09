@@ -1,3 +1,3 @@
 $("button").click(function(){
-$("p").slideToggle();
+$("drop-down").slideToggle();
 });
