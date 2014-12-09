@@ -288,3 +288,7 @@ small, .font_small {font-size: 0.833em;}
 .intro-p p{
 	max-width: 56em;
 }
+
+.search-bar {
+	max-width: 15%;
+}
