@@ -1,4 +1,5 @@
-function myFunction() {
-    $("html").html("Hello jQuery");
-}
-$(document).ready(myFunction);
+$(document).ready(function(){
+$("li").click(fucntion(){
+	alert("hello");
+});
+});
