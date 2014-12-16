@@ -8,6 +8,6 @@ $("button").click(function(){
 */
 $(document).ready(function(){
 	$("button").onclick(function(){
-		$("button").next(".drop-down").show();
+		$("button").next().show();
 	});
 });
