@@ -8,6 +8,6 @@ $("button").click(function(){
 */
 $(document).ready(function(){
 	$("#what-is-an-eviction").onclick(function(){
-		$("what-is-an-eviction-content").slideToggle();
+		$("what-is-an-eviction-content").show();
 	});
 });
