@@ -7,6 +7,7 @@ $("button").click(function(){
 });
 */
 $(document).ready(function(){
+	$("p").hide();
 	$("button").onclick(function(){
 		$("button").next().show();
 	});
