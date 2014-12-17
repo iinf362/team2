@@ -8,8 +8,8 @@ $("button").click(function(){
 */
 var test = 23;
 $(document).ready(function(){
-	$("p").hide();
-	$("button").onclick(function(){
-		$("button").next().show();
+	$(".drop-down-content").hide();
+	$(".drop-down").click(function(){
+		$(".drop-down-content").show();
 	});
 });
