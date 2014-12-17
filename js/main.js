@@ -7,6 +7,6 @@ $("button").click(function(){
 });
 */
 $(".drop-down-content").hide();
-$(".drop-down").click(function(){
+$("button").click(function(){
 	$(".drop-down-content").show();
 });
