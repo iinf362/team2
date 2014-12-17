@@ -292,8 +292,3 @@ small, .font_small {font-size: 0.833em;}
 .search-bar {
 	max-width: 15%;
 }
-/* drop down content */
-
-.drop-down-content{
-	display: none;
-}
