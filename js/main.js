@@ -8,6 +8,6 @@ $("button").click(function(){
 */
 $(document).ready(function(){
 	$("button").click(function(){
-		$(".drop-down-content").show();
+		$(".drop-down-content").slideToggle();
 	});
 });
