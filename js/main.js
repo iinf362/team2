@@ -1,7 +1,7 @@
 
 
 $(document).ready(function(){
-	$("h2").click(function(){
-		$(".p").slideToggle();
+	$("work").click(function(){
+		$("now").slideToggle();
 	});
 });
