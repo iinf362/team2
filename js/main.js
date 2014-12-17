@@ -1,7 +1,7 @@
 
 
 $(document).ready(function(){
-	$("button").click(function(){
-		$(".drop-down-content").slideToggle();
+	$("what-is-a-lease").click(function(){
+		$("my-mom").slideToggle();
 	});
 });
