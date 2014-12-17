@@ -2,6 +2,6 @@
 
 $(document).ready(function(){
 	$("h2").click(function(){
-		$("p").slideToggle();
+		$(".p").slideToggle();
 	});
 });
